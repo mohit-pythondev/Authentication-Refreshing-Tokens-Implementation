@@ -75,7 +75,7 @@ This project demonstrates how to implement JWT authentication with refresh token
 1. **Navigate to the frontend directory:**
 
     ```bash
-    cd <your-frontend-folder>
+    cd frontend
     ```
 
 2. **Install dependencies:**
