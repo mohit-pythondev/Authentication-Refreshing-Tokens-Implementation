@@ -39,8 +39,8 @@ This project demonstrates how to implement JWT authentication with refresh token
 1. **Clone the repository:**
 
     ```bash
-    git clone <your-repo-url>
-    cd <your-backend-folder>
+    git https://github.com/mohit-pythondev/Authentication-Refreshing-Tokens-Implementation.git
+    cd your-backend\
     ```
 
 2. **Create a virtual environment:**
